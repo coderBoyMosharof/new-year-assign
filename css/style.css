@@ -70,7 +70,25 @@ body{
 
 .failures-resonses i{
     color: #16D887;
-    font-size: 25px;
+    font-size: 20px;
     margin-right: 10px;
  
+}
+
+.planning{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    margin-top: 100px;
+    padding: 50px 0px;
+}
+.plan-img{
+    margin-bottom: 20px;
+}
+.plan-title{
+    margin: 20px 0px;
+    color: #151414;
+}
+.plan-info{
+    color: #737272;
 }
