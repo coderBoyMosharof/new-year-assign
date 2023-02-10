@@ -51,3 +51,26 @@ body{
     font-size: 20px;
     border-radius: 6px;
 }
+
+/* failurses section  */
+.failures-year{
+    display: flex;
+    margin-top: 100px;
+    align-items: center;
+    gap: 40px;
+}
+.failures-right-content h1{
+    color: #151414;
+    font-size: 40px;
+}
+.failures-right-content p{
+    margin-top: 20px;
+    line-height: 26px;
+}
+
+.failures-resonses i{
+    color: #16D887;
+    font-size: 25px;
+    margin-right: 10px;
+ 
+}
